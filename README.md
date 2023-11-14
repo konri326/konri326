@@ -3,6 +3,8 @@
 [![E-mail](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konrad326@opoczta.pl)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-gontarczyk-78214b225/?locale=en_US)
 
+I am a passionate and determined developer, ready for new challenges and development in a dynamic programming environment. I have a solid foundation in programming in Java and experience in creating applications using Spring Framework. I am a disciplined person who works well in a team and individual. I am willing to learn new functionalities that can use while creating projects. I am interested in development as a Java Backend Developer.
+
 ## Tech stack
 
 ### :tv: Frontend
